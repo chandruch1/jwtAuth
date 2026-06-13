@@ -8,5 +8,5 @@
 		"DB_USERNAME": "neondb_owner",
 		"DB_PASSWORD": "npg_b6RcIFTtN1lg"
 	},
-	"memory": 256
+	"memory": 512
 }
