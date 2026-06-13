@@ -10,11 +10,19 @@
   "projects": [
     {
       "idx": 1,
+<<<<<<< HEAD
       "id": "49827000000013051",
       "name": "springboot",
       "domain": {
         "id": "50042849630",
         "name": "springboot-60073436158.development"
+=======
+      "id": "49827000000026044",
+      "name": "springboot-todo",
+      "domain": {
+        "id": "50043096818",
+        "name": "springboot-todo-60073436158.development"
+>>>>>>> 3310f25 (first commit)
       },
       "timezone": "Asia/Kolkata",
       "env": [
@@ -22,6 +30,7 @@
           "idx": 1,
           "id": "60073436158",
           "name": "Development",
+<<<<<<< HEAD
           "type": 3,
           "env_status": "Active",
           "project_details": {
@@ -31,6 +40,9 @@
           },
           "is_default": true,
           "action_required": false
+=======
+          "type": 3
+>>>>>>> 3310f25 (first commit)
         }
       ]
     }
